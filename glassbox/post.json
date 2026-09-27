@@ -1,0 +1,126 @@
+{
+  "slug": "harmoniumclear",
+  "box": 26,
+  "question": "How does a harmonium work?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/harmoniumclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/harmoniumclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "More than 3,000 years from a Chinese mouth organ with tiny bamboo reeds, through the parlours and churches of Europe, to the hand-pumped box that sings with India's temples, gurdwaras, qawwalis and film songs.\n\n1300 BCE: The sheng: the first free reeds\n1780: A machine that says its vowels\n1840: The harmonium gets its name\n1863: Scientists tune harmoniums to pure intervals\n1875: The hand-pumped harmonium\n1912: The bane of Indian music\n\nThe full story, with 29 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/harmoniumclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/harmoniumclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #harmonium #freereed #reedorgan #bellows #airpressure #cantilever #history",
+      "youtube": {
+        "title": "The history of the harmonium in 45 seconds #shorts",
+        "description": "More than 3,000 years from a Chinese mouth organ with tiny bamboo reeds, through the parlours and churches of Europe, to the hand-pumped box that sings with India's temples, gurdwaras, qawwalis and film songs.\n\n1300 BCE · The sheng: the first free reeds (Musicians of Shang dynasty China)\n1780 · A machine that says its vowels (Christian Gottlieb Kratzenstein)\n1840 · The harmonium gets its name (Alexandre Debain)\n1863 · Scientists tune harmoniums to pure intervals (Hermann von Helmholtz; Robert Bosanquet)\n1875 · The hand-pumped harmonium (Dwarkanath Ghose (Dwarkin & Son))\n1912 · The bane of Indian music (Rabindranath Tagore)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/harmoniumclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/harmoniumclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a harmonium work?\n\nEvery note on a harmonium is a thin brass tongue buzzing through a slot, fed by air you pump with one hand. Take one apart in 3D, scrape a reed to tune it, pull the stops, hear why its fixed notes got it banned from All India Radio, and play it with your keyboard.\n\n→ A harmonium is a wooden box of brass reeds, a keyboard and a bellows you pump by hand.\n→ Pump, and air waits under pressure. Press a key, and it rushes out through brass reeds.\n→ Each note is a brass tongue riveted over a slot. Air pushes it through, and it springs back.\n→ A shorter tongue swings faster: halve its length and the note climbs two octaves.\n→ Each push of the bellows fills a spring-loaded reservoir, which keeps the wind steady.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/harmoniumclear (link in bio)\n\nBox No. 026 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #harmonium #freereed #reedorgan #bellows #airpressure #cantilever #stops #drone #equaltemperament",
+    "carousel": "Swipe through: How does a harmonium work?\n\nEvery note on a harmonium is a thin brass tongue buzzing through a slot, fed by air you pump with one hand. Take one apart in 3D, scrape a reed to tune it, pull the stops, hear why its fixed notes got it banned from All India Radio, and play it with your keyboard.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/harmoniumclear (link in bio).\n\nBox No. 026 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #harmonium #freereed #reedorgan #bellows #airpressure #cantilever",
+    "youtube": {
+      "title": "How does a harmonium work? #shorts",
+      "description": "Every note on a harmonium is a thin brass tongue buzzing through a slot, fed by air you pump with one hand. Take one apart in 3D, scrape a reed to tune it, pull the stops, hear why its fixed notes got it banned from All India Radio, and play it with your keyboard.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/harmoniumclear/\n⌘ Source code (MIT): https://github.com/bdeeps/harmoniumclear\n\nBox No. 026 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a harmonium work? (interactive explainer)",
+      "description": "Every note on a harmonium is a thin brass tongue buzzing through a slot, fed by air you pump with one hand. Take one apart in 3D, scrape a reed to tune it, pull the stops, hear why its fixed notes got it banned from All India Radio, and play it with your keyboard.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/harmoniumclear/\n⌘ Source code (MIT): https://github.com/bdeeps/harmoniumclear\n\nIn this video:\n• A box of reeds and a bellows. An Indian harmonium is a wooden box with a keyboard on top and a hinged bellows at the back.\n• A brass tongue that chops the air. Each note is a free reed: a thin brass tongue riveted over a slot.\n• Pump, store, squeeze. Your hand pushes air through a one-way valve into a reservoir held shut by springs.\n• Pull a stop, add a voice. Each stop opens a bank of reeds: bass an octave down, male at the key's pitch, female an octave up.\n• Fixed notes in a sliding music. The reeds are tuned once, usually to equal temperament: Ga is 400 cents above Sa, while the pure 5/4 Ga that singers lean to is 386.\n• From church organ to every stage in India. Missionaries brought pedal reed organs; in Calcutta, Dwarkanath Ghose is widely credited with the hand-pumped floor harmonium by 1875.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a harmonium work?\n\nEvery note on a harmonium is a thin brass tongue buzzing through a slot, fed by air you pump with one hand.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/harmoniumclear/",
+    "linkedin": "How does a harmonium work?\n\nEvery note on a harmonium is a thin brass tongue buzzing through a slot, fed by air you pump with one hand. Take one apart in 3D, scrape a reed to tune it, pull the stops, hear why its fixed notes got it banned from All India Radio, and play it with your keyboard.\n\n1. A box of reeds and a bellows\n2. A brass tongue that chops the air\n3. Pump, store, squeeze\n4. Pull a stop, add a voice\n5. Fixed notes in a sliding music\n6. From church organ to every stage in India\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 026 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/harmoniumclear/\nCode: https://github.com/bdeeps/harmoniumclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-27T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-27T11:14:18.822Z"
+}

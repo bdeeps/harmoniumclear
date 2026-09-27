@@ -1,0 +1,111 @@
+{
+  "slug": "harmoniumclear",
+  "box": 26,
+  "date": "2026-10-06",
+  "title": "HarmoniumClear",
+  "question": "How does a harmonium work?",
+  "hook": "Every note on a harmonium is a thin brass tongue buzzing through a slot, fed by air you pump with one hand. Take one apart in 3D, scrape a reed to tune it, pull the stops, hear why its fixed notes got it banned from All India Radio, and play it with your keyboard.",
+  "thumbText": "HOW A HARMONIUM WORKS",
+  "field": "sound",
+  "minutes": 12,
+  "tags": [
+    "harmonium",
+    "free reed",
+    "reed organ",
+    "bellows",
+    "air pressure",
+    "cantilever",
+    "stops",
+    "drone",
+    "equal temperament",
+    "just intonation",
+    "shruti",
+    "Indian classical music",
+    "qawwali",
+    "kirtan",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A box of reeds and a bellows",
+      "text": "An Indian harmonium is a wooden box with a keyboard on top and a hinged bellows at the back. Inside sit a spring-loaded reservoir of air, a reed board with rows of brass reeds in little cells, a padded valve (a pallet) under every key, and stop knobs that choose which rows get air."
+    },
+    {
+      "title": "A brass tongue that chops the air",
+      "text": "Each note is a free reed: a thin brass tongue riveted over a slot. Air pushes it through, it springs back, and every swing lets out a puff. It swings at its natural frequency, f = 0.56·(t/L²)·√(E/12ρ), so a longer tongue is much lower. Makers tune by scraping: the tip to go up, the root to go down."
+    },
+    {
+      "title": "Pump, store, squeeze",
+      "text": "Your hand pushes air through a one-way valve into a reservoir held shut by springs. The springs keep the wind at about 0.5 to 1.5 kPa, only 1% above the room's pressure. Every open reed lets out about 0.07 L/s, so big chords drain it fast. Pump harder and it plays louder: that is its only volume control."
+    },
+    {
+      "title": "Pull a stop, add a voice",
+      "text": "Each stop opens a bank of reeds: bass an octave down, male at the key's pitch, female an octave up. Their harmonics stack and beat gently, and a musette bank tuned a few cents sharp beats a few times a second. Drone stops hold Sa and Pa without any key."
+    },
+    {
+      "title": "Fixed notes in a sliding music",
+      "text": "The reeds are tuned once, usually to equal temperament: Ga is 400 cents above Sa, while the pure 5/4 Ga that singers lean to is 386. Held together they beat about ten times a second. A scale changer slides the keyboard over the reeds to change key without changing fingers."
+    },
+    {
+      "title": "From church organ to every stage in India",
+      "text": "Missionaries brought pedal reed organs; in Calcutta, Dwarkanath Ghose is widely credited with the hand-pumped floor harmonium by 1875. It spread to bhajan, kirtan, qawwali, theatre and film. All India Radio banned it from 1 March 1940, and partly lifted the ban in 1971. Masters like Tulsidas Borkar made it a solo voice."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Free reed",
+      "def": "A springy tongue that swings freely through a slot, chopping airflow into puffs. Used in harmoniums, accordions, harmonicas and the sheng."
+    },
+    {
+      "term": "Natural frequency",
+      "def": "The rate an object vibrates at by itself, set by its stiffness and its mass."
+    },
+    {
+      "term": "Cantilever",
+      "def": "A beam fixed at one end and free at the other, like a diving board or a reed tongue."
+    },
+    {
+      "term": "Reservoir",
+      "def": "The inner, spring-loaded bellows that stores air and keeps the wind pressure steady."
+    },
+    {
+      "term": "Pallet",
+      "def": "The padded valve under each key that lets air through that key's reeds."
+    },
+    {
+      "term": "Stop",
+      "def": "A knob that opens or closes the air to one bank of reeds, or to a drone reed."
+    },
+    {
+      "term": "Beats",
+      "def": "The slow swell and fade when two nearly equal frequencies sound together. The beat rate is their difference."
+    },
+    {
+      "term": "Equal temperament",
+      "def": "Tuning where every semitone is exactly 100 cents, so every key works but only octaves are pure."
+    },
+    {
+      "term": "Shruti",
+      "def": "A fine step of pitch in Indian music, finer than a semitone; tradition counts 22 in an octave."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "harmoniumclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
